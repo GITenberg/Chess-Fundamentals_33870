@@ -1,0 +1,30 @@
+_repo: Chess-Fundamentals_33870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Capablanca, José Raúl
+    aliases:
+    - Graupera, José Raúl Capablanca y
+    - Capablanca, Jose Raul
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '36760'
+    url: http://www.gutenberg.org/2009/agents/36760
+    wikipedia: http://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca
+description: ''
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chess'
+- !lcc 'GV'
+title: Chess Fundamentals
+url: http://www.gutenberg.org/ebooks/33870
